@@ -1,0 +1,22 @@
+[
+  {
+    "SourceBaseURL": "https://raw.githubusercontent.com/akankshalksingh/",
+    "SourceRelativeURL": "Covid19Analysis/refs/heads/main/Data%20Ingestion%20from%20HTTP/country_response.csv",
+    "SinkFileName": "Country Response.csv"
+  },
+  {
+    "SourceBaseURL": "https://raw.githubusercontent.com/akankshalksingh/",
+    "SourceRelativeURL": "Covid19Analysis/refs/heads/main/Data%20Ingestion%20from%20HTTP/testing.csv",
+    "SinkFileName": "Testing.csv"
+  },
+  {
+    "SourceBaseURL": "https://raw.githubusercontent.com/akankshalksingh/",
+    "SourceRelativeURL": "Covid19Analysis/refs/heads/main/Data%20Ingestion%20from%20HTTP/cases_deaths.csv",
+    "SinkFileName": "Cases and Deaths.csv"
+  },
+  {
+    "SourceBaseURL": "https://raw.githubusercontent.com/akankshalksingh/",
+    "SourceRelativeURL": "Covid19Analysis/refs/heads/main/Data%20Ingestion%20from%20HTTP/hospital_admissions.csv",
+    "SinkFileName": "Hospital Admissions.csv"
+  }
+]
